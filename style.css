@@ -63,3 +63,7 @@ p{
 .question-four img{
     margin-left: 25px;
 }
+span:hover{
+    color: hsl(292, 16%, 49%);
+    cursor: pointer;
+}
