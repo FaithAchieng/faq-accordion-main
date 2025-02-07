@@ -37,3 +37,29 @@ h1{
 p{
     font-size: 16px;
 }
+.question-one{
+    font-family: "Worksans",sans-serif;
+    font-weight: 600;
+}
+.question-two{
+    font-family: "Worksans",sans-serif;
+    font-weight: 600;
+}
+.question-two img{
+    margin-left: 200px;
+}
+.question-three{
+    font-family: "Worksans",sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+}
+.question-three img{
+    margin-left: 12px;
+}
+.question-four{
+    font-family: "Worksans",sans-serif;
+    font-weight: 600;   
+}
+.question-four img{
+    margin-left: 25px;
+}
