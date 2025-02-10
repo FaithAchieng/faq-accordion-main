@@ -67,3 +67,9 @@ span:hover{
     color: hsl(292, 16%, 49%);
     cursor: pointer;
 }
+#information{
+    display: hidden;
+}
+p{
+    display: none;
+}
