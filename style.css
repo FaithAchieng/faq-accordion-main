@@ -90,3 +90,24 @@ span:hover{
 p{
     display: none;
 }
+@media  screen and (max-width: 768px) {
+    body{
+        background-image: url("./assets/images/background-pattern-mobile.svg");
+        background-repeat: no-repeat;
+    }
+    .main-card{
+        margin-right: 550px;
+        width: 30%;
+    }
+    .question-two{
+        display: flex;
+    flex-direction: row;
+
+    }
+    .question-two img{
+        margin-left: 0px;
+        
+    }
+   
+    
+}

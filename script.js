@@ -2,6 +2,10 @@ const plus = document.querySelectorAll(".plus");
 const minus = document.querySelectorAll(".minus");
 const information = document.querySelectorAll(".info");
 
+information[0].style.display = "block";
+minus[0].style.display = "block"; 
+plus[0].style.display = "none"; 
+
 plus.forEach((pluss, index) => {
     pluss.addEventListener("click", function(e) {
         e.preventDefault();
